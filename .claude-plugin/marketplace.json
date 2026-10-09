@@ -7,7 +7,7 @@
     {
       "name": "token-meter",
       "source": "./plugins/token-meter",
-      "description": "Suivi en direct des tokens : par tchat et par session de 5 h"
+      "description": "Mod : tokens en direct par tchat et par session de 5 h, sur toutes les surfaces"
     }
   ],
   "metadata": {

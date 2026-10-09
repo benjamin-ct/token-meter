@@ -1,9 +1,16 @@
 {
   "name": "token-meter",
   "displayName": "Token Meter",
-  "version": "1.0.0",
-  "description": "Suivi en direct de la consommation : tokens par tchat et par session de 5 h, barre d'état live, rapports et tableau de bord terminal",
-  "author": { "name": "Benjamin" },
+  "version": "2.0.0",
+  "author": {
+    "name": "Benjamin"
+  },
+  "description": "Mod : tokens en direct par tchat et par session de 5 h, dans la ligne d'état et un panneau, sur toutes les surfaces de Claude Code",
   "license": "MIT",
-  "keywords": ["tokens", "usage", "statusline", "monitoring"]
+  "keywords": [
+    "tokens",
+    "usage",
+    "mod"
+  ],
+  "types": "./types/index.d.ts"
 }
