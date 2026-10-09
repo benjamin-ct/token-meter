@@ -1,0 +1,16 @@
+{
+  "name": "benjamin-tools",
+  "owner": {
+    "name": "Benjamin"
+  },
+  "plugins": [
+    {
+      "name": "token-meter",
+      "source": "./plugins/token-meter",
+      "description": "Suivi en direct des tokens : par tchat et par session de 5 h"
+    }
+  ],
+  "metadata": {
+    "description": "Outils Claude Code de Benjamin"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "token-meter",
+  "displayName": "Token Meter",
+  "version": "1.0.0",
+  "description": "Suivi en direct de la consommation : tokens par tchat et par session de 5 h, barre d'état live, rapports et tableau de bord terminal",
+  "author": { "name": "Benjamin" },
+  "license": "MIT",
+  "keywords": ["tokens", "usage", "statusline", "monitoring"]
+}
